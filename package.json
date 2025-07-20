@@ -1,6 +1,6 @@
 {
   "name": "fake-order-detector",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A React component library for detecting fake orders in e-commerce applications with Bangladeshi payment gateway integration.",
   "main": "dist/index.umd.js",
   "module": "dist/index.esm.js",
@@ -22,9 +22,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alamhossaindev/fake-order-detector.git"
+    "url": "https://github.com/alam2025/fake-order-detector"
   },
-  "homepage": "https://github.com/alamhossaindev/fake-order-detector#readme",
+  "homepage": "https://github.com/alam2025/fake-order-detector#readme",
   "type": "module",
   "scripts": {
     "dev": "vite",
